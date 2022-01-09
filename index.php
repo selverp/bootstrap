@@ -1,5 +1,5 @@
 <?php include "header.php"; ?>
-   <!-- <h1>Responsive Website</h1> -->
+   <!-- <h1>Responsive Website 2</h1> -->
    <header class="container-fluid">
       <section id="top" class="bg-primary">
         <div class="top container">
